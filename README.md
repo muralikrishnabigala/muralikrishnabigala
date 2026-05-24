@@ -1,86 +1,102 @@
-# 💻 Muralikrishna Bigala - QA Engineer | Software Tester | Automation Enthusiast
+# Muralikrishna Bigala
 
-🌟 Passionate about delivering quality through rigorous software testing practices and automation!  
-🔍 Focused on ensuring smooth, bug-free user experiences across mobile, web, game, and API platforms.
+## QA Automation Engineer | Selenium | Playwright | Java | TypeScript | API Testing
 
----
+QA Automation Engineer with 1.3+ years of experience in Manual and Automation Testing for web, mobile, and API applications in Agile Scrum environments.
 
-## 👨‍💻 About Me:
-
-I am a dedicated **Software Testing Professional** with hands-on experience in both **Manual and Automation Testing** across various platforms and domains. My passion lies in ensuring that every release meets the highest standards of quality, performance, and user experience.
-
-With strong proficiency in testing tools, frameworks, and methodologies, I bring value to teams by detecting issues early and facilitating faster feedback in CI/CD pipelines. My collaborative mindset and analytical approach help bridge the gap between development and QA for seamless releases.
+Experienced in building and maintaining automation frameworks using Selenium WebDriver with Java and Playwright with TypeScript. Skilled in Functional Testing, Regression Testing, REST API Testing, Cross-browser Testing, and Mobile Application Testing across Android and iOS platforms.
 
 ---
 
-## 🧪 My Testing Expertise Includes:
+## 🔧 Core Skills
 
-- **Manual Testing:** End-to-end testing, exploratory testing, regression, and usability testing.
-- **Mobile & Game Testing:** Experience testing Android apps and mobile games like **BGMI (BattleGrounds Mobile India)**.
-- **API Testing:** Using **Postman**, **Swagger**, and **REST Assured** to validate RESTful APIs.
-- **Automation Testing:**
-  - Selenium WebDriver with Java
-  - TestNG & Cucumber (BDD using Gherkin syntax)
-  - Data-Driven Testing (DDT)
-  - Simplify QA tool for low-code automation
-- **Project & Bug Tracking:** Jira, TestRail, Zephyr for test case management and bug tracking.
-- **Build & CI/CD Integration:**
-  - Jenkins for continuous testing
-  - Maven / Gradle for test builds
-- **Version Control:** Git, GitHub for managing automation code and test scripts.
-
----
-
-## 🧩 Projects & Mini Work:
-
-### 🎮 BGMI (BattleGrounds Mobile India) Game Testing
-- 📋 Designed and documented **test cases** covering gameplay, UI, matchmaking, controls, and stability.
-- 🧪 Executed manual testing simulating real-game scenarios on mobile devices.
-- ✅ Personal game testing project demonstrating mobile and functional testing skills.
-
-### 🎓 LMS (Learning Management System) Course Portal
-- 📌 Documented structured **test cases** for an LMS portal with login, course creation, enrollment, and assessment flows.
-- 🛠 Performed functionality, validation, and UI testing to ensure course flow accuracy.
-- 🔎 Covered positive and negative test scenarios using Excel and Manual Testing techniques.
+* Selenium WebDriver
+* Playwright
+* Java
+* TypeScript
+* TestNG
+* Cucumber BDD
+* REST API Testing
+* Postman
+* Automation Testing
+* Manual Testing
+* Mobile Testing
+* Cross-browser Testing
+* Jira, Linear & TestRail ALM
+* Git & GitHub
+* Maven & Jenkins
+* CI/CD
+* SDLC & STLC
+* Agile Scrum
 
 ---
 
-## 🤝 Seeking Collaboration:
+## 💼 Professional Experience
 
-- 🔍 Collaborate on QA Automation, CI/CD pipelines, and test planning.
-- 🎮 Interested in contributing to **Game QA Projects** or Mobile Testing pipelines.
+### QA Test Engineer — Sun Technologies Integrators
 
-📫 **Let’s Connect:**
-- [LinkedIn](https://www.linkedin.com/in/b-muralikrishna-715730228/)
-- [Email](mailto:muralikrishnabigala31@gmail.com)
-- [Portfolio](https://myportfolio-6p5y.onrender.com/)
-- [GitHub](https://github.com/muralikrishnabigala)
+* Performing Functional, Regression, Smoke, and Sanity Testing for web, Android, iOS, and tablet applications.
+* Developing automation scripts using Selenium WebDriver with Java.
+* Building scalable end-to-end automation solutions using Playwright with TypeScript.
+* Performing REST API validation using Postman.
+* Managing defects using Jira, Linear, and TestRail ALM.
+* Participating in Agile sprint activities, release validation, and defect tracking workflows.
 
----
+### QA Intern — Nuvizz Software Solutions
 
-## 🚀 Focused On:
-
-- 🔄 Building scalable QA frameworks
-- 🧪 Expanding test coverage in CI/CD
-- 📱 Mobile & Game App Testing
-- 🤖 AI-based Testing Tools Research
-
----
-
-## 🧠 Fun Fact:
-
-> I believe that **great testing doesn't just find bugs — it prevents them.**  
-> Quality is not an act, it's a habit!
+* Worked on logistics and transportation domain applications.
+* Performed REST API Testing using Postman.
+* Validated JSON responses and backend workflows.
+* Executed Manual Testing and defect management activities.
+* Collaborated with QA and development teams in Agile environments.
 
 ---
 
-## 🧰 Tech & Tool Stack:
+## 🚀 Automation Projects
 
-| Manual Testing | Automation | Frameworks | Tools | CI/CD & Versioning |
-|----------------|------------|------------|-------|---------------------|
-| Test Cases, Bug Reports | Selenium, Simplify QA | TestNG, JUnit, Cucumber | Postman, Jira, BrowserStack, Swagger | Git, GitHub, Jenkins, Maven, Gradle 
-| Mobile Testing | API Testing | BDD & DDT | VS Code, Eclipse | GitHub Actions, CI/CD Pipeline |
+### Selenium Automation Framework
+
+Automation testing framework using Selenium WebDriver, Java, TestNG, and Page Object Model (POM) for scalable regression testing.
+
+### Playwright TypeScript Framework
+
+Modern end-to-end automation framework using Playwright with TypeScript supporting reusable architecture and cross-browser testing.
+
+### REST API Testing Collection
+
+Postman collections for validating REST APIs, status codes, request-response flows, and backend integrations.
 
 ---
 
-🔥 *Let’s build quality software together — through great collaboration and even better testing!*  
+## 🤖 AI & Productivity Tools
+
+* ChatGPT
+* GitHub Copilot
+* Claude AI
+* Anti Gravity
+
+
+Using AI-assisted workflows for:
+
+* Test case generation
+* Debugging assistance
+* Automation productivity
+* QA documentation support
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: [www.linkedin.com/in/b-muralikrishna-715730228](http://www.linkedin.com/in/b-muralikrishna-715730228)
+* GitHub: github.com/muralikrishnabigala
+* Email: [muralikrishnabigala31@gmail.com](mailto:muralikrishnabigala31@gmail.com)
+
+---
+
+## 🎯 Current Focus
+
+* Scalable QA Automation Frameworks
+* Playwright & Modern Web Automation
+* API Automation Testing
+* CI/CD Integrated Testing
+* AI-assisted QA Workflows
