@@ -35,6 +35,7 @@ Experienced in building and maintaining automation frameworks using Selenium Web
 
 ### QA Test Engineer — Sun Technologies Integrators
 
+* Currently working on an AI-based Education platform project involving web, Android, iOS, and tablet applications.
 * Performing Functional, Regression, Smoke, and Sanity Testing for web, Android, iOS, and tablet applications.
 * Developing automation scripts using Selenium WebDriver with Java.
 * Building scalable end-to-end automation solutions using Playwright with TypeScript.
